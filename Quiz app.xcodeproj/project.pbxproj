@@ -55,8 +55,8 @@
 		DF52EC1E2A21A66400B4082A /* Quiz app */ = {
 			isa = PBXGroup;
 			children = (
-				DF52EC1F2A21A66400B4082A /* Quiz_appApp.swift */,
 				DF52EC212A21A66400B4082A /* ContentView.swift */,
+				DF52EC1F2A21A66400B4082A /* Quiz_appApp.swift */,
 				DF52EC2D2A21A6B600B4082A /* Quiz.swift */,
 				DF52EC232A21A66500B4082A /* Assets.xcassets */,
 				DF52EC252A21A66500B4082A /* Preview Content */,

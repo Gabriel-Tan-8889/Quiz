@@ -55,7 +55,7 @@ struct ContentView: View {
                     Text("Quiz Completed!")
                         .font(.title)
                         .padding()
-                    Text("Your Score: \(score)/70")
+                    Text("Your Score: \(score)/80")
                         .font(.headline)
                         .padding()
                 Button {
@@ -64,6 +64,7 @@ struct ContentView: View {
                     score = 0
                 } label: {
                     Text("Restart")
+                    Text("Please try again!")
                         .cornerRadius(10)
                 }
 
